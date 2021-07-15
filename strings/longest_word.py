@@ -1,3 +1,11 @@
+"""
+Link : https://www.w3resource.com/python-exercises/string/
+Text : Write a Python function that takes a list of words and returns the longest word and the length of the longest one. Go to the editor
+       Sample Output:
+       Longest word: Exercises
+       Length of the longest word: 9
+"""
+
 def longest_word():
     x = int(input("How many words are you willing to enter : "))
     word_1 = input("Enter a word : ")
